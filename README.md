@@ -1,8 +1,6 @@
 # 我的餐廳清單
 一個使用 Node.js + Express 打造的喜愛餐廳收藏網站，提供使用者搜尋餐廳資料的功能。
 
-[Demo Website](https://s5819874.github.io/Restaurant-List/)
-
 ## Features - 產品功能
 
 1. 使用者可以瀏覽所有餐廳列表
