@@ -46,3 +46,8 @@ npm run dev
 ```
 Express is now running on http://localhost:3000
 ```
+
+## Web Home Page - 專案首頁
+
+![image](https://github.com/s5819874/Restaurant-List/blob/master/home_page.png)
+
